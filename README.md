@@ -1,2 +1,2 @@
 # Flask-Web-App
-Flask website with Authentication + Databases using template from Tech with Tim
+Flask website with Authentication + Databases using template created by Tech with Tim
